@@ -1,30 +1,67 @@
-# ismail-habeeb
-Hi, I'm Ismail 👋
+# Hi, I'm Ismail Habeeb 👋
 
-Full-Stack Developer
+### Full-Stack Developer
 
-I build responsive, user-focused web applications using
-React, Node.js, Express, and MongoDB.
+I build responsive, user-focused web applications and digital products using modern JavaScript technologies.
 
-What I work with
-• React / JavaScript
-• Node.js / Express
-• MongoDB / Mongoose
-• REST APIs
-• Git / GitHub
-• Cloudinary
-• Vercel / Render
+I enjoy turning ideas into practical products—from frontend interfaces and REST APIs to databases, authentication, real-time features, and deployment.
 
-Featured Project
-🚀 Mommenta
-A full-stack social media platform built with React,
-Node.js, Express, MongoDB, and real-time communication.
+---
 
-I'm currently:
-• Building full-stack web applications
-• Improving my engineering practices
-• Open to professional opportunities and collaborations
+## 🛠️ Tech Stack
 
-📫 Let's connect
-LinkedIn: ...
-Portfolio: Coming soon
+**Frontend**
+HTML · CSS · JavaScript · React · Tailwind CSS
+
+**Backend**
+Node.js · Express.js · REST APIs
+
+**Database**
+MongoDB · Mongoose
+
+**Tools & Platforms**
+Git · GitHub · Vercel · Render · Cloudinary · Jira
+
+**Design**
+CorelDRAW · Canva · Photoshop · InDesign
+
+---
+
+## 🚀 Featured Project
+
+### Mommenta
+
+A full-stack social media application designed for sharing moments, connecting with people, and communicating in real time.
+
+**Built with:** React · Node.js · Express.js · MongoDB · Socket.IO · Cloudinary
+
+🔗 **Live:** https://mommenta.vercel.app/
+💻 **Repository:** https://github.com/ismailhabeeb/mommenta
+
+---
+
+## 💼 What I Do
+
+* Full-Stack Web Development
+* Responsive Web Applications
+* REST API Development
+* Database Integration
+* Authentication & Authorization
+* Real-Time Web Applications
+* UI Implementation & Digital Design
+
+---
+
+## 📌 Currently
+
+* Building and improving full-stack web applications
+* Expanding my professional development portfolio
+* Exploring opportunities to work on meaningful digital products
+
+---
+
+## 🤝 Let's Connect
+
+**LinkedIn:** https://www.linkedin.com/in/habeeb-ismail-9547a7234
+**Email:** [ismailhabeeboluwatobi995@gmail.com](mailto:ismailhabeeboluwatobi995@gmail.com)
+
